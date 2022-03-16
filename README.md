@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 <span> 📧 connect : kysuk05@gmail.com </span>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tong39)](https://solved.ac/tong39)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tong39&theme=cold)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tong39)](https://solved.ac/tong39) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tong39&theme=cold)
