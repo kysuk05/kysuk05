@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:ff9f00&height=300&section=header&text=Hi%20There!&fontSize=70&fontAlign=80&fontColor=FFFFFF)
 
+<h2> 👋 Hello! My name is Yeong-seok Kang </h2>
 <span> 📧 connect : kysuk05@gmail.com </span>
 
 
