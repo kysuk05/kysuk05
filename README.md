@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> 👋 Hello! My name is Yeong-seok Kang </h2>
 
-<span> 📧 connect : kysuk05@gmail.com </span>
+📧 connect : kysuk05@gmail.com <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kysuk05@gmail.com" target="_blank"> </a>
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tong39)](https://solved.ac/tong39) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tong39&theme=cold)
