@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:ff9f00&height=300&section=header&text=Hi%20There!&fontSize=70&fontAlign=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:ff9f00&height=300&section=header&text=Hi%20There!&fontSize=50&fontAlign=80&fontColor=FFFFFF)
 
 <h2> 👋 Hello! My name is Yeong-seok Kang </h2>
 
-📧 connect : kysuk05@gmail.com <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kysuk05@gmail.com" target="_blank"> </a>
+- 📧 Contect : kysuk05@gmail.com <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kysuk05@gmail.com" target="_blank"> </a>
+- 🌱 I’m currently learning in Boostcamp Ai Tech of NAVER Connect Foundation
+- 🔍 I’m interested in AI / Recommender System
+
+### : Main Skills
+
+<p align ="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 ![kysuk05's GitHub stats](https://github-readme-stats.vercel.app/api?username=kysuk05&show_icons=true&theme=gruvbox_light)
 
