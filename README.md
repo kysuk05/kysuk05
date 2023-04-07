@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <p align ="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
 ### : Studing 📖
 <p align ="center">
